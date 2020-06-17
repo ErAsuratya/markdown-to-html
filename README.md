@@ -43,4 +43,4 @@
   I possess super powers when I am drunk. :muscle:  
 
 
-<< [Mattias](https://github.com/WiseCoding/markdown-challenge/blob/master/README.md) || [Mausam](https://github.com/ErAsuratya/markdown-to-html/blob/master/README.md) || [Miroslav](https://github.com/miroslavveljanoski/markdown-challenge/blob/master/README.md) >>
+<< [Mattias](https://github.com/WiseCoding/markdown-to-html) || [Mausam](https://github.com/ErAsuratya/markdown-to-html) || [Miroslav](https://github.com/miroslavveljanoski/markdown-challenge/blob/master/README.md) >>
